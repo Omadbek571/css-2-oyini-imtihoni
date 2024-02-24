@@ -1,0 +1,35 @@
+.footer1 {
+  width: 100%;
+  background: rgb(0, 37, 41);
+  color: #fff;
+}
+.footer-box1 {
+  padding: 48px 0;
+  display: flex;
+  align-items: center;
+}
+.fot-box1 {
+  display: flex;
+  font-family: "Livvic", sans-serif;
+  gap: 40px;
+  margin-top: 25px;
+}
+.fot-box2-text1 {
+  color: darkgray;
+  margin-left: 125px;
+  line-height: 25px;
+}
+.fot-icon {
+  display: flex;
+  gap: 16px;
+  margin-left: auto;
+}
+.fc:hover path {
+  fill: red;
+}
+.pint:hover path {
+  fill: red;
+}
+.tw:hover path {
+  fill: red;
+}

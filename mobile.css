@@ -1,0 +1,199 @@
+@media (max-width: 800px) {
+    .hero {
+        display: block;
+    }
+
+    .hr1 {
+        margin-top: 100px;
+    }
+
+    .container {
+        padding-inline: 20px;
+
+    }
+
+    .main-img1 {
+        display: none;
+    }
+
+    .hero-title {
+        text-align: center;
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .ser {
+        display: block;
+    }
+
+    .ser1 {
+        margin-top: 100px;
+    }
+
+    .boxing1-title {
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 32px;
+    }
+
+    .boxing2-img1 {
+        display: none;
+    }
+
+    .reding1 {
+        padding: 56px 0;
+        display: block;
+        text-align: center;
+    }
+
+    .red-btn {
+        max-width: 153px;
+        padding: 10px 32px;
+        display: flex;
+        margin-inline: auto;
+    }
+
+    .red1-text1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .red1-text1 {
+        font-size: 30px;
+    }
+
+    .hero2 {
+        display: block;
+        text-align: center;
+        margin-top: -20px;
+    }
+
+    .hr2 {
+        display: none;
+    }
+
+    .hero2-img1 {
+        margin-top: 10px;
+    }
+
+    .meet-title {
+        text-align: center;
+    }
+
+    .meet-df {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .meet-df1 {
+        flex-direction: column;
+        margin-top: 50px;
+        align-items: center;
+    }
+
+    .met1-box1 {
+        margin-top: 100px;
+    }
+
+    .soshal-title {
+        margin-top: 90px;
+        text-align: center;
+    }
+
+    .soshal-boxing {
+        flex-direction: column;
+    }
+
+    .con {
+        display: block;
+    }
+
+    .con-img {
+        display: none;
+    }
+
+    .contact-title {
+        margin-top: 200px;
+        text-align: center;
+    }
+
+    .ask {
+        text-align: center;
+    }
+
+    .con1 {
+        display: block;
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    .contact-box2 {
+        margin-top: 50px;
+    }
+
+    .input1 {
+        width: 300px;
+        margin-inline: auto;
+        display: flex;
+    }
+
+    .btn {
+        display: flex;
+        margin-inline: auto;
+    }
+
+
+}
+
+@media (max-width: 600px) {
+    .burger-navbar {
+        display: block;
+    }
+
+    .link {
+        display: none;
+    }
+
+    .contact {
+        display: none;
+    }
+
+    .boxing-box1 {
+        flex-direction: column;
+        display: block;
+    }
+
+    .box1 {
+        margin-top: 150px;
+    }
+
+    .footer-box1 {
+        display: block;
+        position: relative;
+    }
+
+    .fot-box2-text1 {
+        position: absolute;
+        display: flex;
+        left: 50px;
+        top: 90px;
+        text-align: right;
+    }
+
+    .fot-icon {
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+;
